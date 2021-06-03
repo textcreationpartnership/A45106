@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An humble reque[st to the honourable charitable gentry of] St. Pauls Covent-Garde[n], with other great and noble persons, ladies, gentry, and well-wishers to the numerous poor children in St. Martins, St. Giles's, and St. Clements Danes, in the [c]ounty of Middlesex</title>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45106</idno><idno type="EEBO-CITATION">99833172</idno>
+  <idno type="VID">37647</idno>
+  <idno type="EEBO-PROQUEST">2240891380</idno>
+  
+            <idno type="STC">Wing H3646A</idno>
+            <idno type="STC">ESTC R221928</idno>
+            <idno type="PROQUEST">99833172</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99833172e"/>
+            <note>(EEBO-TCP ; phase 2, no. A45106)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37647)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2171:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An humble reque[st to the honourable charitable gentry of] St. Pauls Covent-Garde[n], with other great and noble persons, ladies, gentry, and well-wishers to the numerous poor children in St. Martins, St. Giles's, and St. Clements Danes, in the [c]ounty of Middlesex</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1682?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title words in brackets from Wing.</note>
+                  <note>Place of publication suggested by Wing; date of publication conjectured from text; Wing gives date: 1685.</note>
+                  <note>Copy torn at head with loss of text; cropped; print fade.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Charities --  England --  Early works to 1800.</term>
+               <term type="topical_term">Children --  Institutional care --  England --  Middlesex --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="charitable_solicitation">
+            <pb facs="tcp:37647:1"/>
+            <head>An humble request <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               
+               <hi>St. Pauls Covent-Garde<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> with other great and Noble Persons, Ladies, Gentry, and Well-wishers to the numerous poor Children in <hi>St. Martins, St. Giles's,</hi> and St. <hi>Cle<g ref="char:EOLhyphen"/>ments Danes,</hi> in the <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ounty of <hi>Middlesex.</hi>
+            </head>
+            <div type="part">
+               <p>WHereas the Right Honourable <hi>Wm.</hi> Earl of <hi>Bedford,</hi> has (by a most excellent and kind Letter) lately commended to our Reverend Minister, the Dean of <hi>Peterborough,</hi> a good and charitable Design now at <hi>High-Gate,</hi> for the Breeding and placing forth of poor Children, with intimation or his own Kindness, It is humbly prayed, that you the Honourable, Charitable Gentry, and other good Inhabitants of <hi>Covent-Garden,</hi> would set the first Example, by giving or subscribing some certain summ, or summs, to some of these Papers, as your charitable Pru<g ref="char:EOLhyphen"/>dence shall direct, for raising Five Hundred Pounds towards the endowing or carrying on the Schools or Hospitals at <hi>High-Gate.</hi> In consideration whereof, it is humbly offered and promised, that Ten poor Children shall always have their Breeding, Habit, and placing forth in the said Hospitals, which are most ex<g ref="char:EOLhyphen"/>cellently scituated, being distinct, and a little separate from one another, with many Conveniencies of Build<g ref="char:EOLhyphen"/>ings, (having bought the Marquess of <hi>Dorchester</hi>'s house) more than can be raised for the same Money, by 4 or 5 Thousand Pounds, in a sweet and good Air, where they will be less subject to be interrupted in their Learning, and their Healths better preserved than in the Suburbs, and cheaper dieted, by reason of conveniencies to brew, bake, with Grounds for keeping Kine, and setting all manner of Kitchen Garden-Roots, and Fruits, which in <hi>London,</hi> or the Suburbs, must be bought by the Penny. The Over-seers of the Poor only paying for their Dyet, at the same rate that they or others usually do, for poor Children about 6 Years of Age, by which kindness of yours this Parish will always have Ten poor Children in a good Ha<g ref="char:EOLhyphen"/>bit, well educated, placed forth, and made fit to live in a hard World. The Boys shall all be taught to Read. Write, Cast Accounts, some the Rudiments of Navigation, or Learning, if apt unto it, common Painting, Planting and Gardening, and others for Drawing, which very many Children are much in<g ref="char:EOLhyphen"/>clinable to with Pen or Chalk, or else put forth to Handicraft Trades. The Girls, which are the weaker Sex, and have been always less provided for, to Read, Write, Sew, Raise Paste, Still, Dress, and what else may qualifie them for Services: And upon the Death or placing forth of any of these Children, others to be put in of the same Sex, the next <hi>Easter</hi> or <hi>Christmas</hi> following, by you the good Benefactors, Church-Wardens, or Vestrys Appointment: In doing this you will set a pattern for the well breeding of many Hundreds of poor Children in other Parishes, and in probability lay the Foundation of raising the good Design now before the Reverend Ministers, and worshipful Vestry-Men of these Four great Parishes, St. <hi>Martins,</hi> St. <hi>Giles</hi>'s, St. <hi>Clement</hi>'s, and St. <hi>Paul</hi>'s <hi>Covent-Garden:</hi> And this may likewise invite Persons of Honour, and encourage all the Charitable Gentry of these parts to commiserate the poor Children of these Parishes above mentioned, who now filch, steal, beg, lie about in bad places, and by Alleys, without Cloaths, or any Breeding, learning from one another to curse, lye, and game, poisoning each others Souls in their first Principles and Childhood: Which Christian Commiseration the charitable Gentry inhabiting hereabouts, would certainly be found willing to exercise in giving somthing Annually for the Breed<g ref="char:EOLhyphen"/>ing, Cloathing, and placing of them forth to such good Employs as their Genius shall most lead them to: Their own Parishes Overseers still paying for their Diet, as now they do &amp; it may be in a very little time, most noble-minded Persons, or great Families, Ladies, Gentlemen, &amp; others, would be willing to keep, for the honour of these parts, some 10, some more, some less, 2, 3, or 4 Children for a few years, or during pleasure; &amp; if it were but one Child, or half a one, which many Trades-men would do, it were great Charity to give this Edu<g ref="char:EOLhyphen"/>cation for raising their Fortunes in a hard world, which this way in some measure would certainly do, and be as a little Portion within their Skin, making a kind of Christ-Church in time with much ease, namely 3 <hi>l.</hi> yearly for a Child, Boy or Girl, at which rate 300 <hi>l.</hi> maintains a Hundred Children, and about 2000 <hi>l.</hi> so many for Seven Years, in which time Twenty and Twenty Thousand Pounds may be given in much probability: <hi>Christ-Church</hi> had 2000 <hi>l.</hi> given this last year by Report. Charity is as good in the Suburbs as elsewhere, and the Nobility and Gentry better able to give. The Childrens Habit shall a little encline to the Benefactors Liveries, if desired, they visiting or shewing of themselves once or twice a year to the Parishes, and good Benefactors: which Kindness may still be continued for as long time as they please, which is yet hoped and agreed to be, until the placing of them forth, by such Honourable or wor<g ref="char:EOLhyphen"/>thy Persons out of each Parish, as the Vestry shall prevail with as first Governours to accept of this Trust; chusing a Treasurer amongst themselves.</p>
+               <q>I do subscribe to give towards keeping <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> annually</q>
+               <p>For future Memory whereof, it is desired this may be sent to the Reverend Minister, Vestry, or some present or former Church-Warden, or Overseer of the Poor, that it may be fairly Registered in the School; nigh Thirty of them, and old Inhabitants of <hi>Covent-Garden,</hi> being there present (on <hi>Bartholomew</hi> day 1682.) with the Lecturer, and another Minister, did unanimously conclude this Design, and every thing pertaining thereto, most worthy of all Encouragement.</p>
+               <p>It is earnestly prayed that the Gentlemen Shopkeepers of the <hi>New-Exchange</hi> would espouse this design, by commending it to such Honourable and Worthy Persons as they shall-think fit; and if they please to chuse a Governour and Treasurer also. The prosperity of which would be pleasurable to see in Summer days.</p>
+               <pb facs="tcp:37647:2"/>
+               <pb facs="tcp:37647:2"/>
+               <pb facs="tcp:37647:3"/>
+               <pb facs="tcp:37647:3"/>
+               <figure>
+                  <q>
+                     <p>But the greatest of all is Charity.</p>
+                     <bibl>1 Corinth: 13</bibl>
+                  </q>
+                  <q>
+                     <p>With my whole desires haue J sought thee: &amp;c. And thy word haue J hid in my heart that J might not sin against thee.</p>
+                     <bibl>Psal. 119.</bibl>
+                  </q>
+               </figure>
+               <pb facs="tcp:37647:4"/>
+               <pb facs="tcp:37647:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+            </div>
+            <div type="part">
+               <pb facs="tcp:37647:5"/>
+               <p>
+                  <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> a Year add<gap reason="illegible" resp="#murp" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> to the Parish provision for the poor Children, will give Education, <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Breeding, and pla<g ref="char:EOLhyphen"/>cing of them forth, preventing many evils and miscarriages in their Minority, for want of Go<g ref="char:EOLhyphen"/>vernment and looking after. And is it not then a thousand pities but this Proposal should <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#murp" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ed, when it may so easily be done by a few Nobility, Gentry, and other Charitable Persons, giving some small Sum for setting it going towards three, or four years maintenance? In <gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ch time vast sums may be gi<g ref="char:EOLhyphen"/>ven by Will or Legacie, being once established by Charter Royal, which some Honourable Persons doubt not to get when a Fund or Stock is obtained; In the mean time were not this a pleasing Sight which the Nobility, Gentry, and others would delight to see; namely, one, two, or three hundred (may be five hundred) Parish Children, well Cloathed, and Disicplin'd, on some set Day in the year, at St. <hi>Mar<g ref="char:EOLhyphen"/>tins</hi> Church, or elsewhere? How many thousands of Eyes, with Applauses, attend <hi>Christ-Church</hi> Boys, and their Benefactors, when they shew themselves in <hi>Whitson-Week?</hi> this may be, and is the <hi>same</hi> for nature in a small degree, as near as one member to another, when set a foot, and going on, which 1000 <hi>l.</hi> down would do, for 2 or 3 years, in which time this would gain repute, and grow; Therefore seeing the Build<g ref="char:EOLhyphen"/>ings are already prepared, cheap and easy, for Boys and Girls, to be alwaies bred in 2 distinct Hospitals by themselves, with every thing that may be desired to make them Praise-worthy; looking down upon the grea<g ref="char:EOLhyphen"/>test Body of Nobility and Gentry in all <hi>Europe,</hi> as Rich Charitable, and Noble-Spirited, as any in the world; And seeing no such publick Thing is or has ever been for these Parts, and their Honour, how will Genera<g ref="char:EOLhyphen"/>tions to come bless their Memories, to see it so raised as to go on and prosper; Can Charity ever be repen<g ref="char:EOLhyphen"/>ted of, if well and rightly managed? Most that give here, make their Eyes their Executors, and may chuse what worthy Governours they please; Who knows how many indigent Children may here have a Rise, and good step for their Fortunes in this world? <hi>Christ-Church</hi> Boys being well educated, become very con<g ref="char:EOLhyphen"/>siderable Persons (many of them;) some by Sea and Navigation, some by Learning, and many other good Employs, make good Citizens, and Masters; these Children may do the same, having good Education; but nothing can be done without stepping forwards, or giving something down: 2000 <hi>l.</hi> is promised or sub<g ref="char:EOLhyphen"/>scribed already, and about 300 <hi>l.</hi> received; 2<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>00 more would set it in an hopeful thriving way beyond all doubt. If times are bad, it is the better to be good and do good; there is no device nor work in the Grave, where all are going; and upon the dying Bed men never repent of being good, or doing such deeds. One gi<g ref="char:EOLhyphen"/>ving draws on another; and Many giving each a little makes a great thing in a little time. Consult and Act, commend this Paper and Design, and send for more of them, so may you have comfort in a few Months to see something going on, which may last for many 100 years, we hope, to the end of the world. The Church<g ref="char:EOLhyphen"/>wardens, Vestries, or Overseers for the poor will inform what Children they have, and if it were but once a going, surely the Nobility, and Gentry would be inclined through the generosity of their Spirits, to do wor<g ref="char:EOLhyphen"/>thily, and Parish Children by degrees be ten times better provided for then ever yet, with much ease. Charity certainly was never ordained all for one place, but some for the Suburbs also; nor do the Clouds and small Rains refresh only one spot, but all more or less, Had <hi>Christ-Church</hi> and many other Hospitals never been, thou<g ref="char:EOLhyphen"/>sands would have wanted Cloths, Food and Breeding. Good designs are praised in after Ages, tho slighted in their first Attempts. In some publick Acts men live and give to the worlds end. Children in the Suburbs may find the truth of this as well as others, if it be set a going; it is good to consult the Blessing and Benefit that may accrew by a good Design when once raised, as well as the difficulty in raising of it. He that watereth shall be watered; Make ye friends of the unrighteous <hi>Mammon,</hi> that when ye fail, (that is, when ye depart this world) they may receive you into everlasting habitations; He that observes the winds shall not sow, and he that observes the Clouds shall not reap, that is, he that makes slight excuses, and objections Charge them that are Rich in this world (says the great <hi>Apostle</hi>) that they do good, and not trust in uncertain riches, but be rich in good Works. Give and it shall be given to you. Right giving to the poor is lending to the Lord, laying up Treasure in Heaven, the best Insuring Office for our selves, and posterity against the time to come.</p>
+               <p>☞ But we shall conclude all, with these 4 Requests. <hi>First.</hi> That the Honourable or Worshipful Vestries in these Parishes, would for some time appoint a little Meeting, for 3, 4, or half a dozen of each Parish, once or twice a Week, at a certain Place, an hour or two, to consult what is best to be done, to set this Design pre<g ref="char:EOLhyphen"/>sently on foot; And whether it were not a good way to press it a little upon some worthy Persons to accept of this Trust or trouble, to be looked upon, as present Masters to this intended Hospital? <hi>Secondly,</hi> To think on some Great and most likely Noble Persons, to make a good beginning of this publick work of Charity in each Parish; chusing some active Persons to wait on them with such inducing Arguments as they shall think fit, for obtaining kindness down, Promise or Subscription. <hi>Thirdly,</hi> That some Person or Persons may be appointed to give notice from one Parish to another, what day or hour they intend to meet, and afterwards acquaint the Vestry what is done or acted. <hi>Fourthly.</hi> That all would joyn in this to finish a little Building that lies unfinished, to prevent that damage which the winter weather (now just upon us) must of necessity bring, which 3 or 4 hundred Pounds would do, and make conveniences for many Children presently, which if they please may be sent from each Parish before <hi>Christmas</hi> next.</p>
+               <p>All Charitable and Ingenious Minds will easily suppose, that though 4 Parishes be only mentioned in what goes before, yet it was not to exclude the Charity of any in the City, be they Companies, or single Persons, but rather to incite their free Generosity to imitate and equal the worth of such Noble Minds, as in these 4 Parishes have bestow'd their Charitable Benevolence upon the City Hospitals.</p>
+               <pb facs="tcp:37647:5"/>
+               <figure>
+                  <figDesc>depiction of Father Time (with hourglass) as reaper (with scythe), braced by butterflies.</figDesc>
+                  <p>Time drops Pearles from his golden Wings. Wee for Butterflyes hazzar<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> God, Christ and Haeaven. Call time againe, Call Time againe cry'd a great One Dying</p>
+               </figure>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
